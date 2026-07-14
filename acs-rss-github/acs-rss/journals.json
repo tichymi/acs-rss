@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "jmedchem",
+    "title": "Journal of Medicinal Chemistry",
+    "issn": "1520-4804",
+    "homepage": "https://pubs.acs.org/journal/jmcmar"
+  },
+  {
+    "slug": "acs-infectious-diseases",
+    "title": "ACS Infectious Diseases",
+    "issn": "2373-8227",
+    "homepage": "https://pubs.acs.org/journal/aidcbc"
+  },
+  {
+    "slug": "acs-medicinal-chemistry-letters",
+    "title": "ACS Medicinal Chemistry Letters",
+    "issn": "1948-5875",
+    "homepage": "https://pubs.acs.org/journal/amclct"
+  },
+  {
+    "slug": "acs-bio-med-chem-au",
+    "title": "ACS Bio & Med Chem Au",
+    "issn": "2694-2437",
+    "homepage": "https://pubs.acs.org/journal/abmcb8"
+  }
+]
